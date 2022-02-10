@@ -14,5 +14,5 @@
 ## Специализация:
 Data Scientist (Учебный опыт)
 
-## Steck
+## Stack
 Python (Pandas, NumPy, SciPy, Scikit-learn, Seaborn, Matplotlib, PyMysterm, NLTK, CatBoost, LGBM)
