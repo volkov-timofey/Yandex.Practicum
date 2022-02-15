@@ -1,4 +1,4 @@
-# Yandex.Practicum
+<div align="center"><img src ="https://github.com/volkov-timofey/Yandex.Practicum/blob/main/img.jpg" /></div>
 
 ## Описание
 Основной пул проектов по исследовательскому анализу данных, обучению моделей в задачах классификации и регрессии для различных секторов бизнеса.
