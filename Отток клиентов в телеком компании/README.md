@@ -10,7 +10,7 @@
 ***Статус проекта:*** Закончен.
 
 # Stack
-Pandas, numpy, seaborn, sklearn, catboost.
+Pandas, NumPy, Seaborn, Scikit-learn, CatBoost.
 
 # Вывод:
 В результате проекта получена модель прогнозирования оттока клиентов с выходными метриками на тестовой выборке: 
