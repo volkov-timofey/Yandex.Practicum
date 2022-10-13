@@ -10,23 +10,23 @@
   + ***Задача***: Построить модель для определения стоимости автомобиля с пробегом.
   + ***Stack***: Pandas, numpy, seaborn, sklearn, catboost, lightgbm.
   
-+ [Обнаружение токсичных комментариев клиентов для последующей модерации (интернет-магазин)](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Обнаружение%20токсичных%20комментариев%20клиентов%20для%20последующей%20модерации%20(интернет-магазин)%20(NLP))
++ [Обнаружение токсичных комментариев клиентов для последующей модерации (интернет-магазин)](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Токсичные%20комментарии%20(NLP))
   + ***Задача***: Разработка модели классифицирующей комментарии на позитивные и негативные.
   + ***Stack***: Pandas, numpy, nltk, sklearn(TfidfVectorizer), catboost.
   
-+ [Предсказание оттока клиентов из банка](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Предсказание%20оттока%20клиентов%20из%20банка)
++ [Предсказание оттока клиентов из банка](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Отток%20клиентов%20из%20банка)
   + ***Задача***: Разработка модели прогнозирующей уход клиента из банка в ближайшее время.
   + ***Stack***: Pandas, numpy, sklearn, seaborn.
 
-+ [Прогнозирование заказов такси на следующий час](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Прогнозирование%20заказов%20такси%20на%20следующий%20час)
++ [Прогнозирование заказов такси на следующий час](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Прогноз%20заказов%20такси%20на%20следующий%20час)
   + ***Задача***: Построить прогноз количества заказов такси на следующий час.
   + ***Stack***: Pandas, numpy, seaborn, sklearn, catboost.
 
-+ [Определение перспективного тарифа для оператора сотовой связи](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Определение%20перспективного%20тарифа%20для%20оператора%20сотовой%20связи)
++ [Определение перспективного тарифа для оператора сотовой связи](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Перспективный%20тариф)
   + ***Задача***: Оценка доходности тарифных планов компании.
   + ***Stack***: Pandas, numpy, scipy, seaborn.
 
-+ [Прогнозирование оттока клиентов для телеком компании](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Прогнозирование%20оттока%20клиентов%20для%20телеком%20компании)
++ [Прогнозирование оттока клиентов для телеком компании](https://github.com/volkov-timofey/Yandex.Practicum/tree/main/Отток%20клиентов%20в%20телеком%20компании)
   + ***Задача***: Разработка модели прогнозирующей отток клиентов.
   + ***Stack***: Pandas, numpy, seaborn, sklearn, catboost.
 

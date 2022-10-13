@@ -8,7 +8,7 @@
 ***Статус проекта:*** Закончен.
 
 # Stack
-Pandas, numpy, seaborn, sklearn, catboost.
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, CatBoost.
 
 # Вывод:
 Получена модель предсказывающая необходимое количество водителей на протяжении дня.

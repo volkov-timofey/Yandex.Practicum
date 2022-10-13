@@ -8,7 +8,7 @@
 ***Статус проекта:*** Закончен.
 
 # Stack
-Pandas, numpy, nltk, sklearn(TfidfVectorizer), catboost.
+Pandas, NumPy, Matplotlib, Seaborn, CatBoost, NLTK, Scikit-learn.
 
 # Вывод:
 Получена обученная модель классифицирующая комментарии на позитивные и негативные с метрикой f1_score = 0.75.

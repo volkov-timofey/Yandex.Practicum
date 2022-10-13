@@ -8,7 +8,7 @@
 ***Статус проекта:*** Закончен.
 
 # Stack
-Pandas, numpy, scipy, seaborn.
+Pandas, NumPy, SciPy, seaborn.
 
 # Вывод:
 Проведён анализ потребления услуг абонентами сотового оператора "МегаЛайн" на тарифах Smart и Ultra.
