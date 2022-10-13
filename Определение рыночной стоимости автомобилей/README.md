@@ -10,7 +10,7 @@
 ***Статус проекта:*** Закончен.
 
 # Stack
-Pandas, numpy, seaborn, sklearn, catboost, lightgbm.
+Pandas, NumPy, Seaborn, Scikit-learn, CatBoost, LGBM.
 
 # Вывод:
 По минимальному времени обучения, лучшей метрики RMSE, а так же для дальнейшей масштабируемости задачи, выбрана обученная модель LGBM.
