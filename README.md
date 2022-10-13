@@ -32,7 +32,7 @@
 
 
 ## Специализация:
-Data Scientist (Учебный опыт)
+Data Science (Учебный опыт)
 
 ## Stack
-Python (Pandas, NumPy, SciPy, Scikit-learn, Seaborn, Matplotlib, PyMysterm, NLTK, CatBoost, LGBM)
+Python 3 (Data: Pandas, NumPy; Statistics: SciPy; Visualization: Seaborn, Matplotlib, NLP/Text: re, PyMysterm, WordNet, NLTK; DS: Scikit-learn, CatBoost, LGBM, Bert).
